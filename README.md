@@ -15,11 +15,8 @@ Hello there! 🙋‍♂️<br>My name is BenAdardor Hassan, which is “difficul
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=benodeveloper&no-frame=fasle&margin-w=5&title=MultiLanguage,Commits,Experience,Repositories,Followers,Issues,PullRequest)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=benodeveloper&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=benodeveloper&limit=5&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
 <img src='https://memer-new.vercel.app/' style="height: 400px;"/>
