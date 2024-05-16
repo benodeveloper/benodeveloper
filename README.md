@@ -13,7 +13,7 @@ Hello there! 🙋‍♂️<br>My name is BenAdardor Hassan, which is “difficul
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=benodeveloper&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=benodeveloper&no-frame=fasle&no-bg=true&margin-w=5&title=MultiLanguage,Commits,Experience,Repositories,Followers,Issues,PullRequest)
+![](https://github-profile-trophy.vercel.app/?username=benodeveloper&no-frame=fasle&margin-w=5&title=MultiLanguage,Commits,Experience,Repositories,Followers,Issues,PullRequest)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
